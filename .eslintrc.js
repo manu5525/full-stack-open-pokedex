@@ -43,10 +43,7 @@ module.exports = {
     "arrow-spacing": [
       "error", { "before": true, "after": true }
     ],
-    "no-console": "off",
+    "no-console": "error",
     "react/prop-types": 0
-  },
-  "globals": {
-    "process": true
   }
-}
+  }
