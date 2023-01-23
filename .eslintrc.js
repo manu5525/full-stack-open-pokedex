@@ -45,8 +45,5 @@ module.exports = {
     ],
     "no-console": "off",
     "react/prop-types": 0
-  },
-  "globals": {
-    "process": true
   }
   }
