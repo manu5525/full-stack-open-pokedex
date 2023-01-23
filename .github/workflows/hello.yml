@@ -15,4 +15,4 @@ jobs:
           echo "Hello World!"
       - name: now its date
         run: |
-          echo "$date"
+          date
